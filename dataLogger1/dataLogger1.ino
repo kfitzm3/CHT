@@ -1,5 +1,5 @@
 /*
-   Simple data logger.
+   Simple data logger. Adafruit breakout
 */
 #include <SPI.h>
 #include "SdFat.h"
